@@ -1,0 +1,5 @@
+,Name,Gender,City,Working Professional or Student,Profession,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Family History of Mental Illness
+count,140700,140700,140700,140700,104070,140700,140696,140698,140700,140700
+unique,422,2,98,2,64,36,23,115,2,2
+top,Rohan,Male,Kalyan,Working Professional,Teacher,Less than 5 hours,Moderate,Class 12,No,No
+freq,3178,77464,6591,112799,24906,38784,49705,14729,71138,70758
